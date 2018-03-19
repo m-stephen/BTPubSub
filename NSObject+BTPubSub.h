@@ -3,8 +3,7 @@
 //  GoodLawyer_UserClient
 //
 //  Created by truestyle on 16/5/11.
-//  Copyright © 2016年 Shanghai Bestone Information & Technology Co., Ltd. All rights reserved.
-//
+
 
 /*
   灵感来自于Glow.Inc团队的PubSub Category.
